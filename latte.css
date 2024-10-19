@@ -1,15 +1,20 @@
 body{
+	background-image:img/logo.png;
 	margin:0;
 }
 
 header{
-	background-color: deeppink;
+	background-color: whitesmoke;
 	text-align: center;
 	padding-top: 50px;
-	padding-bottom: 50px;
-
+	padding-bottom: 30%;
 }
 
+img{
+	align-content: center;
+	opacity: 50%;
+	resize: 900X900;
+}
 header h1{
 	color: white;
 	font-family: Helvetica, Arial, sans-serif;
