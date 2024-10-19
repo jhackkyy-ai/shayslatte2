@@ -1,5 +1,4 @@
 body{
-	background-image:img/logo.png;
 	margin:0;
 }
 
@@ -8,14 +7,15 @@ header{
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 30%;
+	font:Lucida Handwriting;
 }
 
 img{
-	align-content: center;
+	align-content: left;
 	opacity: 50%;
 	resize: 900X900;
 }
 header h1{
-	color: white;
+	color: #7e0e6c;
 	font-family: Helvetica, Arial, sans-serif;
 }
