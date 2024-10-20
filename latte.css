@@ -3,20 +3,9 @@ body{
 }
 
 header{
-	background-color: whitesmoke;
+	background-color: #FFE4E1;
 	text-align: center;
-	padding-top: 50px;
-	padding-bottom: 30%;
-	font:Lucida Handwriting;
-}
-
-img{
-	align-content: left;
-	opacity: 50%;
-	resize: 900X900;
 }
 header h1{
-	font-family: Lucida Handwriting;
-	color: black;
-	font-family: Helvetica, Arial, sans-serif;
+	color: #FF1493;
 }
