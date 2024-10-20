@@ -5,7 +5,11 @@ body{
 header{
 	background-color: #FFE4E1;
 	text-align: center;
+	padding-bottom: 20px;
 }
 header h1{
 	color: #FF1493;
+}
+header img{
+	border-radius: 150px;
 }
