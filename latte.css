@@ -1,9 +1,8 @@
-
 body{
-	background-image: url("cafe.png")
-
-
+	margin: 30px;
+	
 }
+
 main{
 	margin-left: 250px;
 
@@ -15,7 +14,7 @@ header{
 	padding-bottom: 50px;
 	
 }
-header h3{
+header h1{
   font-family: "Zeyada", cursive;
   font-weight: 400;
   font-style: normal;
